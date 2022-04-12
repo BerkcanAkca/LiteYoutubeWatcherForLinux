@@ -9,3 +9,6 @@ You must also install the following modules below in your terminal after install
 pip3 install requests_html bs4
 pip3 install pytube
 pip3 install vlc
+
+!!IMPORTANT!!
+Put the script inside a folder with nothing else, otherwise it might fail to run or play the wrong video after downloading the video
